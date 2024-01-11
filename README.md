@@ -1,2 +1,3 @@
 # bookbot
-Learning some Python
+
+learning some python...
